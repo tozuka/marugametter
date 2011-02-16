@@ -1,0 +1,4 @@
+# m h  dom mon dow   command
+*/3 * * * * /home/marugametter/twitter/chooser.sh &> /dev/null
+* * * * * /home/marugametter/twitter/timeline_catcher.sh &> /dev/null
+
