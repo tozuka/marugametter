@@ -6,11 +6,9 @@
   require_once('User.class.php');
   require_once('Issue.class.php');
 
-#  $my_user_id = 198824125;
-#  $ignore_ids = array('198824125' => true, // myself
-#                      '199688815' => true, // @randomodai
-#                      '134681353' => true, // @kiri_tori
-#                      );
+  $my_user_id = 0;
+  $ignore_ids = array();
+
   $thanks_message = 'うべー';
 
 
