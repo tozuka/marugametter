@@ -1,6 +1,31 @@
+=====
+Title
+=====
 丸亀ったー
 @marugametter
 
+===========
+Description
+===========
 丸亀製麺で素早く注文したいのにできない優柔不断なあなたへ。品切れ御麺。
 http://twitter.com/#!/marugametter
 
+======
+Author
+======
+Naoya Tozuka <tozuka@tejimaya.com>
+
+=======
+License
+=======
+OAuth.php:
+  http://code.google.com/p/oauth-php/
+  see LICENSE.OAuth
+
+twitterOAuth.php:
+  Copyright (c) 2009 Abraham Williams - http://abrah.am - abraham@poseurte.ch
+  see LICENSE.twitterOAuth and http://github.com/abraham/twitteroauth
+
+Other files:
+  Copyright (c) 2011 Naoya Tozuka - tozuka@tejimaya.com
+  See LICENSE.marugametter
